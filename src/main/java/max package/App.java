@@ -1,4 +1,4 @@
-package max package;
+package max package
 
 /**
  * Hello world!
